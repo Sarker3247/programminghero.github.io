@@ -1,8 +1,13 @@
  div{
-    background-color: red;
+    background-color: lightblue;
     border: solid  black;
     border-radius: 10px;
     padding: 30px;
     margin: 50px;
-    justify-content: space-evenly;
+    text-align: center;
+    box-shadow: 10px 30px 40px;
+ }
+
+ ul{
+    text-align: left;
  }
